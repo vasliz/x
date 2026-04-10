@@ -51,7 +51,7 @@ local placevers = {
 
 	[863266079] = {
 		Name = "ar2",
-		PlaceVersion = 1231,
+		PlaceVersion = 1230,
 	},
 
 	[93911318070665] = {
