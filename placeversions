@@ -51,12 +51,12 @@ local placevers = {
 
 	[863266079] = {
 		Name = "ar2",
-		PlaceVersion = 1230,
+		PlaceVersion = 1231,
 	},
 
 	[93911318070665] = {
 		Name = "ar2",
-		PlaceVersion = 51,
+		PlaceVersion = 53,
 	},
 
 	[4991214437] = {
