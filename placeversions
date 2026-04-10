@@ -77,7 +77,15 @@ local placevers = {
 	[155615604] = {
 		Name = "prisonlife",
 		PlaceVersion = 420
+	},
+
+	[109697727506667] = {
+		Name = "rgmatchlobby",
+		PlaceVersion = 120
+	},
+	[82244035210998] = {
+		Name = "rgmatcharena",
+		PlaceVersion = 77
 	}
-}
 
 return placevers
