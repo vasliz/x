@@ -1,0 +1,92 @@
+local placevers = {
+	[2000062521] = {
+		Name = "Lobby",
+		PlaceVersion = 1616,
+	},
+
+	[6128781746] = {
+		Name = "Seaboard",
+		PlaceVersion = 448,
+	},
+
+	[4026676776] = {
+		Name = "Canada",
+		PlaceVersion = 3591,
+	},
+
+	[92537562073813] = {
+		Name = "BlackMarketPvP",
+		PlaceVersion = 231,
+	},
+
+	[6278335370] = {
+		Name = "BlackMarketTrading",
+		PlaceVersion = 640,
+	},
+
+	[14585248573] = {
+		Name = "Redwoods",
+		PlaceVersion = 508,
+	},
+
+	[6361792543] = {
+		Name = "OldSeaboard",
+		PlaceVersion = 722,
+	},
+
+	[16371880317] = {
+		Name = "HotelTestPlace",
+		PlaceVersion = 7634,
+	},
+
+	[16153158425] = {
+		Name = "Metro",
+		PlaceVersion = 1115,
+	},
+
+	[914010731] = {
+		Name = "rg",
+		PlaceVersion = 7007,
+	},
+
+	[863266079] = {
+		Name = "ar2",
+		PlaceVersion = 1230,
+	},
+
+	[93911318070665] = {
+		Name = "ar2",
+		PlaceVersion = 52,
+	},
+
+	[4991214437] = {
+		Name = "town",
+		PlaceVersion = 1558,
+	},
+
+	[10165583746] = {
+		Name = "exam",
+		PlaceVersion = 9977,
+	},
+
+	[443406476] = {
+		Name = "plazarus",
+		PlaceVersion = 236,
+	},
+
+	[155615604] = {
+		Name = "prisonlife",
+		PlaceVersion = 420,
+	},
+
+	[109697727506667] = {
+		Name = "rgmatchlobby",
+		PlaceVersion = 120,
+	},
+	[82244035210998] = {
+		Name = "rgmatcharena",
+		PlaceVersion = 77,
+	},
+}
+
+return placevers
