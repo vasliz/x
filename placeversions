@@ -6,12 +6,12 @@ local placevers = {
 
 	[6128781746] = {
 		Name = "Seaboard",
-		PlaceVersion = 448,
+		PlaceVersion = 453,
 	},
 
 	[4026676776] = {
 		Name = "Canada",
-		PlaceVersion = 3591,
+		PlaceVersion = 3592,
 	},
 
 	[92537562073813] = {
@@ -26,7 +26,7 @@ local placevers = {
 
 	[14585248573] = {
 		Name = "Redwoods",
-		PlaceVersion = 508,
+		PlaceVersion = 509,
 	},
 
 	[6361792543] = {
@@ -41,7 +41,7 @@ local placevers = {
 
 	[16153158425] = {
 		Name = "Metro",
-		PlaceVersion = 1115,
+		PlaceVersion = 1118,
 	},
 
 	[914010731] = {
