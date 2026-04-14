@@ -2,7 +2,7 @@
 local runService = cloneref(game:GetService("RunService"))
 local players = cloneref(game:GetService("Players"))
 local workspace = cloneref(game:GetService("Workspace"))
-
+local userInputService = cloneref(game:GetService("UserInputService"))
 -- variables
 local localPlayer = players.LocalPlayer
 local camera = workspace.CurrentCamera
