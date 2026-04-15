@@ -136,6 +136,8 @@ function EspObject:Construct()
 	self.charCache = {}
 	self.childCount = 0
 	self.bin = {}
+	self.onScreen = false
+	self.transparencyModifier = 1
 	self.drawings = {
 		box3d = {
 			{
@@ -198,6 +200,7 @@ function EspObject:Update()
 	local interface = self.interface
 
 	self.options = interface.teamSettings[interface.isFriendly(self.player) and "friendly" or "enemy"]
+	self.transparencyModifier = 1
 	self.character = interface.getCharacter(self.player)
 	self.health, self.maxHealth = interface.getHealth(self.player)
 	self.weapon = interface.getWeapon(self.player)
@@ -245,7 +248,6 @@ function EspObject:Update()
 	end
 
 	-- transparency modifier logic
-	self.transparencyModifier = 1
 	if interface.sharedSettings.dynamicTransparency then
 		local modifier = 1
 
@@ -435,22 +437,28 @@ function EspObject:Render()
 	for i = 1, #box3d do
 		local face = box3d[i]
 		for i2 = 1, #face do
-			local line = face[i2]
-			line.Visible = box3dEnabled
-			line.Color = parseColor(self, options.box3dColor[1])
-			line.Transparency = options.box3dColor[2] * self.transparencyModifier
+			face[i2].Visible = box3dEnabled
 		end
 
 		if box3dEnabled then
+			local color = parseColor(self, options.box3dColor[1])
+			local transparency = (options.box3dColor[2] or 1) * self.transparencyModifier
+
 			local line1 = face[1]
+			line1.Color = color
+			line1.Transparency = transparency
 			line1.From = corners.corners[i]
 			line1.To = corners.corners[i == 4 and 1 or i + 1]
 
 			local line2 = face[2]
+			line2.Color = color
+			line2.Transparency = transparency
 			line2.From = corners.corners[i == 4 and 1 or i + 1]
 			line2.To = corners.corners[i == 4 and 5 or i + 5]
 
 			local line3 = face[3]
+			line3.Color = color
+			line3.Transparency = transparency
 			line3.From = corners.corners[i == 4 and 5 or i + 5]
 			line3.To = corners.corners[i == 4 and 8 or i + 4]
 		end
