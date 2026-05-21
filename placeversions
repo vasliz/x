@@ -87,6 +87,18 @@ local placevers = {
 		Name = "rgmatcharena",
 		PlaceVersion = 77,
 	},
+	[7336302630] = {
+		Name = "pd lobby",
+		PlaceVersion = 1709,
+	},
+	[7353845952] = {
+		Name = "pd estonia",
+		PlaceVersion = 1171,
+	},
+	[97143334217269] = {
+		Name = "pd gungame",
+		PlaceVersion = 4,
+	},
 }
 
 return placevers
