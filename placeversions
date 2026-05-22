@@ -6,27 +6,27 @@ local placevers = {
 
 	[6128781746] = {
 		Name = "Seaboard",
-		PlaceVersion = 455,
+		PlaceVersion = 499,
 	},
 
 	[4026676776] = {
 		Name = "Canada",
-		PlaceVersion = 3594,
+		PlaceVersion = 3608,
 	},
 
 	[92537562073813] = {
 		Name = "BlackMarketPvP",
-		PlaceVersion = 232,
+		PlaceVersion = 244,
 	},
 
 	[6278335370] = {
 		Name = "BlackMarketTrading",
-		PlaceVersion = 642,
+		PlaceVersion = 656,
 	},
 
 	[14585248573] = {
 		Name = "Redwoods",
-		PlaceVersion = 510,
+		PlaceVersion = 521,
 	},
 
 	[6361792543] = {
@@ -36,12 +36,12 @@ local placevers = {
 
 	[16371880317] = {
 		Name = "HotelTestPlace",
-		PlaceVersion = 7635,
+		PlaceVersion = 7843,
 	},
 
 	[16153158425] = {
 		Name = "Metro",
-		PlaceVersion = 1121,
+		PlaceVersion = 1148,
 	},
 
 	[914010731] = {
@@ -51,22 +51,22 @@ local placevers = {
 
 	[863266079] = {
 		Name = "ar2",
-		PlaceVersion = 1231,
+		PlaceVersion = 1253,
 	},
 
 	[93911318070665] = {
-		Name = "ar2",
-		PlaceVersion = 53,
+		Name = "ar2 banland",
+		PlaceVersion = 69,
 	},
 
 	[4991214437] = {
 		Name = "town",
-		PlaceVersion = 1558,
+		PlaceVersion = 1562,
 	},
 
 	[10165583746] = {
 		Name = "exam",
-		PlaceVersion = 9977,
+		PlaceVersion = 10097,
 	},
 
 	[443406476] = {
