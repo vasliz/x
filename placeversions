@@ -91,6 +91,10 @@ local placevers = {
 		Name = "pd lobby",
 		PlaceVersion = 1709,
 	},
+	[119877268660093] = {
+		Name = "pd metro",
+		PlaceVersion = 4,
+	},
 	[7353845952] = {
 		Name = "pd estonia",
 		PlaceVersion = 1171,
