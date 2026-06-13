@@ -29,7 +29,7 @@ local function returncurrentgame(pid)
 		return "plazarus"
 	elseif pid == 155615604 then
 		return "prisonlife"
-	elseif pid == 7336302630 or pid == 7353845952 or pid == 97143334217269 or pid == 119877268660093 then
+	elseif pid == 7336302630 or pid == 7353845952 or pid == 97143334217269 or pid == 119877268660093 or pid == 73594312486948 then
 		return "pd"
 	else
 		return nil
