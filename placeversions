@@ -103,6 +103,10 @@ local placevers = {
 		Name = "pd gungame",
 		PlaceVersion = 4,
 	},
+	[73594312486948] = {
+		Name = "pd c13",
+		PlaceVersion = 10,
+	},
 }
 
 return placevers
