@@ -107,6 +107,14 @@ local placevers = {
 		Name = "pd c13",
 		PlaceVersion = 37,
 	},
+	[115875349872417] = {
+		Name = "redliner",
+		PlaceVersion = 581,
+	},
+	[126691165749976] = {
+		Name = "redliner",
+		PlaceVersion = 77,
+	},
 }
 
 return placevers
