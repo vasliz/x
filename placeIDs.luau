@@ -23,7 +23,7 @@ local function returncurrentgame(pid)
 		return "ar2"
 	elseif pid == 4991214437 then
 		return "town"
-	elseif pid == 10165583746 then
+	elseif pid == 10165583746 or pid == 90086097639612 then
 		return "exam"
 	elseif pid == 443406476 then
 		return "plazarus"
