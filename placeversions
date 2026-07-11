@@ -68,6 +68,10 @@ local placevers = {
 		Name = "exam",
 		PlaceVersion = 10235,
 	},
+	[90086097639612] = {
+		Name = "examination NS challenge",
+		PlaceVersion = 1201,
+	},
 
 	[443406476] = {
 		Name = "plazarus",
