@@ -46,7 +46,7 @@ local placevers = {
 
 	[914010731] = {
 		Name = "rg",
-		PlaceVersion = 7007,
+		PlaceVersion = 7138,
 	},
 
 	[863266079] = {
@@ -56,7 +56,7 @@ local placevers = {
 
 	[93911318070665] = {
 		Name = "ar2 banland",
-		PlaceVersion = 69,
+		PlaceVersion = 84,
 	},
 
 	[4991214437] = {
@@ -66,7 +66,7 @@ local placevers = {
 
 	[10165583746] = {
 		Name = "exam",
-		PlaceVersion = 10097,
+		PlaceVersion = 10230,
 	},
 
 	[443406476] = {
@@ -93,7 +93,7 @@ local placevers = {
 	},
 	[119877268660093] = {
 		Name = "pd metro",
-		PlaceVersion = 5,
+		PlaceVersion = 10,
 	},
 	[7353845952] = {
 		Name = "pd estonia",
