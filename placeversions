@@ -116,16 +116,12 @@ local placevers = {
 		PlaceVersion = 581,
 	},
 	[126691165749976] = {
-		Name = "redliner 1v1s and 2v2s",
+		Name = "redliner 1v1s and 2v2s and training place",
 		PlaceVersion = 77,
 	},
 	[94987506187454] = {
 		Name = "redliner lobby",
 		PlaceVersion = 16015,
-	},
-	[126691165749976] = {
-		Name = "redliner training place",
-		PlaceVersion = 93,
 	},
 }
 
