@@ -112,15 +112,15 @@ local placevers = {
 		PlaceVersion = 37,
 	},
 	[115875349872417] = {
-		Name = "redliner",
+		Name = "redliner battlegrounds",
 		PlaceVersion = 581,
 	},
 	[126691165749976] = {
-		Name = "redliner",
+		Name = "redliner 1v1s and 2v2s",
 		PlaceVersion = 77,
 	},
 	[94987506187454] = {
-		Name = "redliner",
+		Name = "redliner lobby",
 		PlaceVersion = 16015,
 	},
 }
