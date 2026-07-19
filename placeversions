@@ -123,6 +123,10 @@ local placevers = {
 		Name = "redliner lobby",
 		PlaceVersion = 16015,
 	},
+	[126691165749976] = {
+		Name = "redliner training place",
+		PlaceVersion = 93,
+	},
 }
 
 return placevers
