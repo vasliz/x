@@ -37,8 +37,10 @@ local function returncurrentgame(pid)
 		or pid == 73594312486948
 	then
 		return "pd"
-	elseif pid == 115875349872417 or pid == 126691165749976 or pid == 94987506187454  then
+	elseif pid == 115875349872417 or pid == 126691165749976 or pid == 94987506187454 then
 		return "redliner"
+	elseif pid == 16530963934 or pid == 13927562399 then
+		return "havoc"
 	else
 		return nil
 	end
