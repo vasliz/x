@@ -131,6 +131,11 @@ local placevers = {
 		Name = "havoc northmont",
 		PlaceVersion = 1784,
 	},
+
+	[286090429] = {
+		Name = "Arsenal",
+		PlaceVersion = 12776,
+	},
 }
 
 return placevers
