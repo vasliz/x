@@ -41,6 +41,8 @@ local function returncurrentgame(pid)
 		return "redliner"
 	elseif pid == 16530963934 or pid == 13927562399 then
 		return "havoc"
+	elseif pid == 286090429 then
+		return "arsenal"
 	else
 		return nil
 	end
