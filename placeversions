@@ -125,7 +125,7 @@ local placevers = {
 	},
 	[13927562399] = {
 		Name = "havoc lobby",
-		PlaceVersion = 10,
+		PlaceVersion = 16097,
 	},
 	[16530963934] = {
 		Name = "havoc northmont",
