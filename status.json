@@ -1,0 +1,17 @@
+[
+  { "id": "havoc", "status": "gem", "notes": "" },
+  { "id": "redliner", "status": "gem", "notes": "" },
+  { "id": "arsenal", "status": "gem", "notes": "" },
+  { "id": "project-delta", "status": "gem", "notes": "" },
+  { "id": "ro-ghoul", "status": "gem", "notes": "" },
+  { "id": "town", "status": "gem", "notes": "" },
+  { "id": "project-lazarus", "status": "gem", "notes": "" },
+  { "id": "prison-life", "status": "gem", "notes": "" },
+  { "id": "examination", "status": "gem", "notes": "" },
+  { "id": "apocalypse-rising-2", "status": "partial", "notes": "will be revisited soon" },
+  { "id": "state-of-anarchy", "status": "offline", "notes": "game taken down 💀, up once its back." },
+  { "id": "become-a-sniper", "status": "offline", "notes": "Discontinued" },
+  { "id": "desert-storm", "status": "planned", "notes": "" },
+  { "id": "deadline", "status": "planned", "notes": "" },
+  { "id": "frontlines", "status": "planned", "notes": "" }
+]
