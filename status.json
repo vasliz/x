@@ -7,7 +7,7 @@
   { "id": "town", "status": "gem", "notes": "" },
   { "id": "project-lazarus", "status": "gem", "notes": "" },
   { "id": "prison-life", "status": "gem", "notes": "" },
-  { "id": "examination", "status": "gem", "notes": "" },
+  { "id": "examination", "status": "partial", "notes": "" },
   { "id": "apocalypse-rising-2", "status": "partial", "notes": "will be revisited soon" },
   { "id": "state-of-anarchy", "status": "offline", "notes": "game taken down 💀, up once its back." },
   { "id": "become-a-sniper", "status": "offline", "notes": "Discontinued" },
