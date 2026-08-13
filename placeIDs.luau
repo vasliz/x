@@ -43,6 +43,8 @@ local function returncurrentgame(pid)
 		return "havoc"
 	elseif pid == 286090429 then
 		return "arsenal"
+	elseif pid == 112237800564065 then
+		return "aftermath"
 	else
 		return nil
 	end
