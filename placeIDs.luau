@@ -35,6 +35,7 @@ local function returncurrentgame(pid)
 		or pid == 97143334217269
 		or pid == 119877268660093
 		or pid == 73594312486948
+		or pid == 108769708461590
 	then
 		return "pd"
 	elseif pid == 115875349872417 or pid == 126691165749976 or pid == 94987506187454 then
