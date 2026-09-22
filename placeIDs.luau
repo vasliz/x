@@ -46,6 +46,8 @@ local function returncurrentgame(pid)
 		return "arsenal"
 	elseif pid == 112237800564065 then
 		return "aftermath"
+	elseif pid == 128039018996175 then
+		return "twd"
 	else
 		return nil
 	end
