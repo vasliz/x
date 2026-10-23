@@ -59,6 +59,11 @@ local placevers = {
 		PlaceVersion = 84,
 	},
 
+	[90014710188160] = {
+		Name = "ar2 event?",
+		PlaceVersion = 1,
+	},
+
 	[4991214437] = {
 		Name = "town",
 		PlaceVersion = 1562,
