@@ -1,11 +1,11 @@
 [
   { "id": "havoc", "status": "gem", "notes": "" },
-  { "id": "redliner", "status": "gem", "notes": "" },
+  { "id": "redliner", "status": "partial", "notes": "A few features are broken." },
   { "id": "arsenal", "status": "gem", "notes": "" },
   { "id": "project-delta", "status": "gem", "notes": "" },
   { "id": "ro-ghoul", "status": "gem", "notes": "" },
   { "id": "town", "status": "gem", "notes": "" },
-  { "id": "project-lazarus", "status": "gem", "notes": "" },
+  { "id": "project-lazarus", "status": "partial", "notes": "A few features are broken." },
   { "id": "prison-life", "status": "gem", "notes": "" },
   { "id": "examination", "status": "partial", "notes": "A few features are broken." },
   { "id": "apocalypse-rising-2", "status": "partial", "notes": "Will be revisited soon." },
